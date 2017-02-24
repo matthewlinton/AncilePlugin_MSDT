@@ -1,0 +1,5 @@
+# The following are a list of tasks that will be disabled for MS Diagnostics Tracking
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+\microsoft\windows\diskdiagnostic\microsoft-windows-diskdiagnosticdatacollector

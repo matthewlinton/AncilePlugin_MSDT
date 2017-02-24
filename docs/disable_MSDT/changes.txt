@@ -1,0 +1,5 @@
+V1.1
+	Re-added "/D y" to takeown command.
+	
+v1.0
+	Moved disable_MSDT to it's own repository: AncilePlugin_MSDT
